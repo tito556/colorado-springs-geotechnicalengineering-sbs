@@ -1,0 +1,51 @@
+# Geotechnicalengineering — Colorado Springs
+
+> Geotechnical engineering services in Colorado Springs, United States.
+
+## Services
+- [Anchors](https://colorado-springs.geotechnicalengineering.sbs/anchors/)
+- [Atterberg Limits](https://colorado-springs.geotechnicalengineering.sbs/atterberg-limits/)
+- [Cbr Road](https://colorado-springs.geotechnicalengineering.sbs/cbr-road/)
+- [Cpt Test](https://colorado-springs.geotechnicalengineering.sbs/cpt-test/)
+- [Deep Excavations](https://colorado-springs.geotechnicalengineering.sbs/deep-excavations/)
+- [Excavation Monitoring](https://colorado-springs.geotechnicalengineering.sbs/excavation-monitoring/)
+- [Excavations](https://colorado-springs.geotechnicalengineering.sbs/excavations/)
+- [Flexible Pavement](https://colorado-springs.geotechnicalengineering.sbs/flexible-pavement/)
+- [Footings](https://colorado-springs.geotechnicalengineering.sbs/footings/)
+- [Foundations](https://colorado-springs.geotechnicalengineering.sbs/foundations/)
+- [Grain Size](https://colorado-springs.geotechnicalengineering.sbs/grain-size/)
+- [Ground Improvement](https://colorado-springs.geotechnicalengineering.sbs/ground-improvement/)
+- [Grouting](https://colorado-springs.geotechnicalengineering.sbs/grouting/)
+- [In Situ Permeability](https://colorado-springs.geotechnicalengineering.sbs/in-situ-permeability/)
+- [Investigation](https://colorado-springs.geotechnicalengineering.sbs/investigation/)
+- [Lab In Situ](https://colorado-springs.geotechnicalengineering.sbs/lab-in-situ/)
+- [Laboratory](https://colorado-springs.geotechnicalengineering.sbs/laboratory/)
+- [Liquefaction](https://colorado-springs.geotechnicalengineering.sbs/liquefaction/)
+- [Masw](https://colorado-springs.geotechnicalengineering.sbs/masw/)
+- [Mat Foundations](https://colorado-springs.geotechnicalengineering.sbs/mat-foundations/)
+- [Piles](https://colorado-springs.geotechnicalengineering.sbs/piles/)
+- [Proctor Tests](https://colorado-springs.geotechnicalengineering.sbs/proctor-tests/)
+- [Resistivity](https://colorado-springs.geotechnicalengineering.sbs/resistivity/)
+- [Retaining Walls](https://colorado-springs.geotechnicalengineering.sbs/retaining-walls/)
+- [Rigid Pavement](https://colorado-springs.geotechnicalengineering.sbs/rigid-pavement/)
+- [Road Geotechnics](https://colorado-springs.geotechnicalengineering.sbs/road-geotechnics/)
+- [Sand Cone Density](https://colorado-springs.geotechnicalengineering.sbs/sand-cone-density/)
+- [Seismic](https://colorado-springs.geotechnicalengineering.sbs/seismic/)
+- [Seismic Isolation](https://colorado-springs.geotechnicalengineering.sbs/seismic-isolation/)
+- [Seismic Microzonation](https://colorado-springs.geotechnicalengineering.sbs/seismic-microzonation/)
+- [Seismic Refraction](https://colorado-springs.geotechnicalengineering.sbs/seismic-refraction/)
+- [Slope Stability](https://colorado-springs.geotechnicalengineering.sbs/slope-stability/)
+- [Slopes](https://colorado-springs.geotechnicalengineering.sbs/slopes/)
+- [Soft Ground Tunnels](https://colorado-springs.geotechnicalengineering.sbs/soft-ground-tunnels/)
+- [Spt Drilling](https://colorado-springs.geotechnicalengineering.sbs/spt-drilling/)
+- [Stone Columns](https://colorado-springs.geotechnicalengineering.sbs/stone-columns/)
+- [Test Pits](https://colorado-springs.geotechnicalengineering.sbs/test-pits/)
+- [Triaxial](https://colorado-springs.geotechnicalengineering.sbs/triaxial/)
+- [Vibrocompaction](https://colorado-springs.geotechnicalengineering.sbs/vibrocompaction/)
+
+## Contact
+- Website: https://colorado-springs.geotechnicalengineering.sbs/
+
+## About
+This site provides geotechnical engineering services in Colorado Springs, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
