@@ -2,166 +2,247 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap-0.9">
   <url>
     <loc>https://colorado-springs.geotechnicalengineering.sbs/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/stone-columns</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/anchors/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/cbr-road</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/atterberg-limits/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/anchors</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/cbr-road/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/footings</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/cpt-test/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/retaining-walls</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/deep-excavations/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/masw</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/excavation-monitoring/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/soft-ground-tunnels</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/excavations/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/in-situ-permeability</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/flexible-pavement/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/seismic-microzonation</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/footings/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/rigid-pavement</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/foundations/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/seismic-isolation</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/grain-size/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/slope-stability</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/ground-improvement/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/triaxial</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/grouting/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/flexible-pavement</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/in-situ-permeability/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/mat-foundations</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/investigation/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/cpt-test</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/lab-in-situ/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/excavation-monitoring</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/laboratory/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/deep-excavations</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/liquefaction/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/vibrocompaction</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/masw/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/resistivity</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/mat-foundations/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/test-pits</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/piles/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/liquefaction</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/proctor-tests/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/grouting</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/resistivity/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/atterberg-limits</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/retaining-walls/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/sand-cone-density</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/rigid-pavement/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/contact</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/road-geotechnics/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/piles</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/sand-cone-density/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/proctor-tests</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/seismic/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/grain-size</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/seismic-isolation/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/spt-drilling</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/seismic-microzonation/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/seismic-refraction</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/seismic-refraction/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colorado-springs.geotechnicalengineering.sbs/privacy</loc>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/sitemap/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/slope-stability/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/slopes/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/soft-ground-tunnels/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/spt-drilling/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/stone-columns/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/test-pits/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/triaxial/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://colorado-springs.geotechnicalengineering.sbs/vibrocompaction/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
